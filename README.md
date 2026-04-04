@@ -1,7 +1,7 @@
 # 🌱 Effect of Fertilizer Type, Irrigation Frequency and Plant Variety on Plant Growth
 
 > **EM 524: Design and Analysis of Experiment — Term Project**
-> |**Author:** Jayawardhana H.D.S.M. | **Index:** E/19/169
+> | **Author:** Jayawardhana H.D.S.M. | **Index:** E/19/169
 
 ---
 
